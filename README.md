@@ -29,4 +29,4 @@ for 3D Occupancy Prediction with Dual Training Strategies</strong></h3>
 </p>
 
 ## Updates
-`[2023/1/31]` Our paper is available on [arXiv](https://arxiv.org/pdf/2501.15384). Code will be released soon!
+`[2025/1/31]` Our paper is available on [arXiv](https://arxiv.org/pdf/2501.15384). Code will be released soon!
