@@ -1,7 +1,6 @@
 
 <p align="center">
-  <h3 align="center"><strong>MetaOcc: Surround-View 4D Radar and Camera Fusion Framework
-for 3D Occupancy Prediction with Dual Training Strategies</strong></h3>
+  <h3 align="center"><strong>MetaOcc: Spatio-Temporal Fusion of Surround-View 4D Radar and Camera for 3D Occupancy Prediction with Dual Training Strategies</strong></h3>
 </p>
 
 <p align="center">
@@ -14,6 +13,7 @@ for 3D Occupancy Prediction with Dual Training Strategies</strong></h3>
   Shengyu Yan</sup>&nbsp;&nbsp;&nbsp;
   Jie Bai</sup>&nbsp;&nbsp;&nbsp;
   Zhixiong Ma</sup>&nbsp;&nbsp;&nbsp;
+  Tao Huang</sup>&nbsp;&nbsp;&nbsp;
   Xichan Zhu</sup>&nbsp;&nbsp;&nbsp;
 </p>
 
@@ -28,5 +28,15 @@ for 3D Occupancy Prediction with Dual Training Strategies</strong></h3>
   
 </p>
 
+## Overview
+
+This repository is an official implementation of MetaOcc, the first framework to fuse surround-view 4D radar and camera data for robust and annotation-efficient 3D occupancy prediction in autonomous driving.
+
+<div style="text-align: center;">
+    <img src="assets\framework.png" alt="Dialogue_Teaser" width=100% >
+</div>
+
 ## Updates
-`[2025/1/31]` Our paper is available on [arXiv](https://arxiv.org/pdf/2501.15384). Code will be released soon!
+`[2025/8/12]` 🎉 OmniHD-Scenes dataset v1.0 (~1.3TB) is openly for research purposes. Apply for download [here](https://www.2077ai.com/contact) and explore it via the [official repository](https://github.com/TJRadarLab/OmniHD-Scenes).
+
+`[2025/1/31]` 🚀 Our paper is available on [arXiv](https://arxiv.org/pdf/2501.15384). Code will be released soon!
